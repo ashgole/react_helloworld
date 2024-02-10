@@ -1,8 +1,15 @@
-# React + Vite
+# React + Vite Boilerplate
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+what you will get in this repository
 
-Currently, two official plugins are available:
+1. hello world of vite app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. Host vite app to github
+https://github.com/sitek94/vite-deploy-demo
+
+upcoming
+
+3. tailwind css instalation
+https://tailwindcss.com/docs/guides/vite
+
+4. react 3 fiber installation
